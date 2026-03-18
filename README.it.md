@@ -26,6 +26,23 @@
 
 ---
 
+### 💬 Filosofia
+
+Mi piace capire come funzionano le cose, non solo usarle. Parto dal codice e arrivo fino al rack.
+Credo nell'Infrastructure as Code non come buzzword, ma come unico modo sano di gestire ambienti che crescono.
+Automatizzo tutto quello che ha senso automatizzare, e monitoro tutto il resto.
+
+---
+
+### 🌱 In questo momento sto esplorando
+
+- **Kubernetes** — clustering avanzato, setup multi-nodo e orchestrazione in produzione
+- **Python** — automazione, scripting e tooling per l'AI
+- **Self-hosted LLM** — esecuzione e gestione di modelli in locale con Ollama
+- **AI Agents** — costruzione e orchestrazione di workflow agentici autonomi
+
+---
+
 ### 🛠 Stack
 
 #### ⚙️ Backend
@@ -147,23 +164,6 @@
 - **AI Assistant**: ChatGPT, Claude — usati dove alzano concretamente la qualità e la velocità del lavoro
 - **IDE AI-native**: Windsurf — ambiente di sviluppo potenziato dall'AI
 - **LLM in locale**: Ollama — gestione e orchestrazione di modelli self-hosted per inferenza privata e offline
-
----
-
-### 💬 Filosofia
-
-Mi piace capire come funzionano le cose, non solo usarle. Parto dal codice e arrivo fino al rack.
-Credo nell'Infrastructure as Code non come buzzword, ma come unico modo sano di gestire ambienti che crescono.
-Automatizzo tutto quello che ha senso automatizzare, e monitoro tutto il resto.
-
----
-
-### 🌱 In questo momento sto esplorando
-
-- **Kubernetes** — clustering avanzato, setup multi-nodo e orchestrazione in produzione
-- **Python** — automazione, scripting e tooling per l'AI
-- **Self-hosted LLM** — esecuzione e gestione di modelli in locale con Ollama
-- **AI Agents** — costruzione e orchestrazione di workflow agentici autonomi
 
 ---
 
